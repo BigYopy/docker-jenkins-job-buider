@@ -1,4 +1,4 @@
-#Jenkins Job Builder Docker image
+# Jenkins Job Builder Docker image
 
 Uses jenkins jobs definition in Yaml or Json files to configure Jenkins.
 
